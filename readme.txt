@@ -1,4 +1,6 @@
 FrmaerFlow Release
 
-* Beta
+* Ready for Private Beta
+  - Most 1st milestone features implemented
+
 
