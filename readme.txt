@@ -1,5 +1,7 @@
-FrmaerFlow Release
 
-* FramerFlow - 32bits only
+FrmaerFlow 
+* Framer.js + Windows + FlowType
+* FramerFlow - only supports 64bits
+
 
 
