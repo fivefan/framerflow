@@ -1,6 +1,5 @@
 FrmaerFlow Release
 
-* Ready for Private Beta
-  - Most 1st milestone features implemented
+* FramerFlow - 32bits only
 
 
