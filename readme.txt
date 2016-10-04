@@ -8,6 +8,9 @@ FrmaerFlow
   * However if you can see the publisher name as Jae Lee(Yes! it's me), 
     it is genuine file.
 
+* v0.2.145 (10-04-2016)
+  FIXED: Keyboard shortcut issues.
+  
 * v0.2.143 (10-01-2016)
   FIXED: Many, manu bugs.
   
