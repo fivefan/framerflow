@@ -8,6 +8,13 @@ FrmaerFlow
   * However if you can see the publisher name as Jae Lee(Yes! it's me), 
     it is genuine file.
 
+* v0.2.165 (10-12-2016)
+  CHANGED: signature-at-pos implemented
+  ADDED: iphone7 device resources
+  ADDED: updated latest framer.js
+  ADDED: properety intellisense
+  FIXED: Lots of bugs.
+  
 * v0.2.145 (10-04-2016)
   FIXED: Keyboard shortcut issues.
   
